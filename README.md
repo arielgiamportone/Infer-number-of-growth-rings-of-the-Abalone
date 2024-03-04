@@ -9,6 +9,7 @@
 En el contexto de la biología pesquera, la determinación precisa de la edad de los abalones, moluscos marinos altamente valorados, es esencial tanto para la investigación científica como para la industria. Tradicionalmente, la edad se ha determinado mediante métodos manuales y tediosos que involucran el corte y conteo de anillos en la cáscara del abalon. En este trabajo, presentamos un modelo de inferencia basado en Machine Learning diseñado para predecir la cantidad de anillos de crecimiento del abalon, utilizando medidas físicas.
 
 - Summary
+In the context of fisheries biology, the precise determination of the age of abalones, highly valued marine mollusks, is essential for both scientific research and industry. Traditionally, age has been determined through manual and tedious methods involving cutting and counting growth rings on the abalone shell. In this work, we present a Machine Learning-based inference model designed to predict the number of growth rings of the abalone, using physical measurements.
 
 - Materiales y métodos
 
