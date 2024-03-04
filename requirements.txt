@@ -14,3 +14,4 @@ seaborn==0.13.0
 # Machine learning libraries
 lightgbm==4.2.0
 xgboost==2.0.3
+pycaret==3.3.0
